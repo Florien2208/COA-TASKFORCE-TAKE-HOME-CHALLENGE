@@ -150,3 +150,21 @@
   margin: auto;
   gap: 2px;
 }
+
+@media (max-width: 834px) {
+  .gallery-01 {
+    width: 400px;
+    height: 600px;
+    gap: 2px;
+    opacity: 0px;
+  }
+
+  .image-interaction {
+    width: 98.5px;
+    height: 100%;
+  }
+
+  .overlays {
+    display: none;
+  }
+}
