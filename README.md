@@ -21,7 +21,7 @@ An elegant, responsive image gallery with interactive hover effects, built using
 1. Open VSCode.
 2. Open the Command Palette by pressing `Ctrl+Shift+P` (Windows/Linux) or `Cmd+Shift+P` (macOS).
 3. Type "Git: Clone" and press Enter.
-4. Enter the repository URL: `https://github.com/yourusername/interactive-image-gallery.git`
+4. Enter the repository URL: `https://github.com/Florien2208/COA-TASKFORCE-TAKE-HOME-CHALLENGE.git`
 5. Choose or create a directory where you want to clone the project.
 
 ## Step 2: Open the Project
@@ -32,6 +32,9 @@ An elegant, responsive image gallery with interactive hover effects, built using
 ## Step 3: Explore the Project Structure
 
 Your project structure should look like this:
+
+
+```plaintext
 interactive-image-gallery/
 ├── assets/
 │   ├── image-1.png
@@ -45,6 +48,7 @@ interactive-image-gallery/
 │   └── stringTransform.js
 ├── index.html
 └── README.md
+
 ## Step 4: Install Live Server (Optional but Recommended)
 
 Live Server will automatically reload your browser when you make changes to your files.
